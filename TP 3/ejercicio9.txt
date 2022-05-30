@@ -1,0 +1,3 @@
+Azul y Verde es Cian
+Rojo y Azul es Magenta
+Verde y Rojo es Amarillo
